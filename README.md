@@ -1,6 +1,4 @@
-Here’s the improved README content formatted as a code block for easy use:
 
-```markdown
 # 📚 Bookstore API  
 
 A robust NestJS-based RESTful API for managing a Bookstore application. This project includes full CRUD operations for books, user authentication using JWT, PostgreSQL integration, Swagger documentation, and containerization via Docker.  
@@ -81,6 +79,4 @@ Contributions are welcome! Please fork the repository and create a pull request 
 ## 📜 License  
 
 This project is licensed under the MIT License.  
-```
 
-You can copy this code and paste it into your `README.md` file. Let me know if you need further assistance!
